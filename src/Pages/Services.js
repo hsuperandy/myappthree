@@ -7,7 +7,7 @@ const Services = () => {
             <div className="container">
                 <div className="text-center">
                     <h2 className="section-heading text-uppercase">Services</h2>
-                    <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 className="section-subheading text-muted">NodeJS courses</h3>
                 </div>
                 <div className="row text-center">
                     <div className="col-md-4">
